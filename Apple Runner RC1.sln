@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Apple Runner RC1", "Apple Runner RC1.vbproj", "{72425B15-ED12-4B5A-90B9-A78D5B6C3C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72425B15-ED12-4B5A-90B9-A78D5B6C3C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72425B15-ED12-4B5A-90B9-A78D5B6C3C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72425B15-ED12-4B5A-90B9-A78D5B6C3C61}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{72425B15-ED12-4B5A-90B9-A78D5B6C3C61}.Debug|Default.Build.0 = Debug|Any CPU
+		{72425B15-ED12-4B5A-90B9-A78D5B6C3C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72425B15-ED12-4B5A-90B9-A78D5B6C3C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72425B15-ED12-4B5A-90B9-A78D5B6C3C61}.Release|Default.ActiveCfg = Release|Any CPU
+		{72425B15-ED12-4B5A-90B9-A78D5B6C3C61}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD93B3E-1FB9-4C2D-A1B4-0CA6753D465C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
