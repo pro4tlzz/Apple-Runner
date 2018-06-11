@@ -1022,5 +1022,9 @@
     Private Sub Label35_Click(sender As Object, e As EventArgs) Handles Label35.Click
 
     End Sub
+
+    Private Sub Apple_Runner_FormClosing(sender As Object, e As FormClosingEventArgs) Handles MyBase.FormClosing
+        Application.Exit()
+    End Sub
 End Class
 

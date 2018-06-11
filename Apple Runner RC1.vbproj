@@ -78,7 +78,8 @@
     <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>06_256_4a0_icon.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
@@ -137,9 +138,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -175,9 +176,15 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="06_256_4a0_icon.ico" />
-    <None Include="bin\Debug\man_going_down.bmp" />
+    <None Include="Resources\mario_level_complete.wav" />
+    <None Include="Resources\Mario_Coin.WAV" />
+    <None Include="Resources\man_going_up.bmp" />
+    <None Include="Resources\man_going_right.bmp" />
+    <None Include="Resources\man_going_left.bmp" />
     <None Include="Resources\man_going_down.bmp" />
+    <None Include="Resources\game_over.gif" />
+    <None Include="Resources\explosion.gif" />
+    <None Include="bin\Debug\man_going_down.bmp" />
     <None Include="bin\Debug\mario_level_complete.wav" />
     <None Include="bin\Debug\Mario_Coin.WAV" />
     <None Include="Resources\score.txt" />
@@ -188,6 +195,12 @@
     <None Include="bin\Debug\man_going_down_transparent.bmp" />
     <None Include="bin\Debug\game_over.gif" />
     <None Include="bin\Debug\explosion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple runner ico.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final apple runner ico.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
