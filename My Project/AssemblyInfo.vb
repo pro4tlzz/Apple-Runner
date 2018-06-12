@@ -10,11 +10,11 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("Apple Runner")>
-<Assembly: AssemblyDescription("Created by Pro4TLZZ")>
+<Assembly: AssemblyDescription("Created by Mohammed Bilal Habib")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("Apple Runner")>
-<Assembly: AssemblyCopyright("Copyright ©  2017")>
-<Assembly: AssemblyTrademark("Pro4TLZZ")>
+<Assembly: AssemblyCopyright("Copyright © Mohammed Bilal Habib  2017")>
+<Assembly: AssemblyTrademark("Mohammed Bilal Habib")>
 
 <Assembly: ComVisible(False)>
 

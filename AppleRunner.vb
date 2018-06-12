@@ -12,7 +12,6 @@
     Dim timercountdown As Integer = 50
     Dim SoundInst As New SoundClass
 
-    'Pro4TLZZ
 
 
     Public Class SoundClass
@@ -1024,6 +1023,7 @@
     End Sub
 
     Private Sub Apple_Runner_FormClosing(sender As Object, e As FormClosingEventArgs) Handles MyBase.FormClosing
+        'Closes Application on exit
         Application.Exit()
     End Sub
 End Class
